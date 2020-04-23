@@ -1,0 +1,6 @@
+D:\NAU\4 семестр\АПпз\M1\ЛР 3\APpz lw1.3\APpz lw1.3\bin\Debug\APpz lw1.3.exe.config
+D:\NAU\4 семестр\АПпз\M1\ЛР 3\APpz lw1.3\APpz lw1.3\bin\Debug\APpz lw1.3.exe
+D:\NAU\4 семестр\АПпз\M1\ЛР 3\APpz lw1.3\APpz lw1.3\bin\Debug\APpz lw1.3.pdb
+D:\NAU\4 семестр\АПпз\M1\ЛР 3\APpz lw1.3\APpz lw1.3\obj\Debug\APpz lw1.3.csprojAssemblyReference.cache
+D:\NAU\4 семестр\АПпз\M1\ЛР 3\APpz lw1.3\APpz lw1.3\obj\Debug\APpz lw1.3.exe
+D:\NAU\4 семестр\АПпз\M1\ЛР 3\APpz lw1.3\APpz lw1.3\obj\Debug\APpz lw1.3.pdb
