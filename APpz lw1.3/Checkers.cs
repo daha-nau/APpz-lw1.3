@@ -6,18 +6,7 @@ using System.Threading.Tasks;
 
 namespace APpz_lw1._3
 {
-    public class Checkers : Game
+    public class Checkers 
     {
-        public Checkers(int players, string fieldtype = "chessboard") : base(players, fieldtype)
-        {
-            
-        }
-
-        public override int makeMove(int player)
-        {
-            Random random = new Random();
-            Checker current = (Checker)(attributes[random.Next(0, 15)]);
-            return current.Identifier;
-        }
     }
 }
